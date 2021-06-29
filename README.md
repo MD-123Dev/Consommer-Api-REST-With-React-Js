@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Axios
 - Responsive design
 
-## ScreeShoot : 
+## Project (Gif): 
 
 ![20210629-223214](https://user-images.githubusercontent.com/43389513/123877166-9d913c80-d934-11eb-95e4-1b8127f92a08.gif)
 
