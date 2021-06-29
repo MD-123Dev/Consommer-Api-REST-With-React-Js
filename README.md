@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Components :
+
+- CRUD with Api-REST + Redux 
+- use Bootstrap 
+- use font Awesome
+- Forms
+- Handling error with catch 
+- Systeam Route
+- use style css 
+- Handling event
+- Axios
+- 
 ## Available Scripts
 
 In the project directory, you can run:
