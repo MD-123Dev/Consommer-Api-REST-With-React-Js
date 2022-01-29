@@ -10,6 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Forms
 - Handling error with catch 
 - Systeam Route
+- Redux
 - use style css 
 - Handling event
 - Axios
